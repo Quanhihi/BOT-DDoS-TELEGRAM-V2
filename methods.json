@@ -5,8 +5,8 @@
         "vip": false
     },
     {
-        "name": "TCP-SYN",
-        "description": "TCP SYN Flood",
+        "name": "UDP-FLOOD",
+        "description": "UDP Flood",
         "vip": true
     }
 ]
